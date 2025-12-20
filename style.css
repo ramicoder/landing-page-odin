@@ -16,7 +16,7 @@ header {
 }
 
 .logo {
-    padding-left: 210px;
+    padding-left: 255px;
     margin-top: -73px;
     flex-basis: 200px;
     height: 200px;
@@ -74,6 +74,7 @@ a {
     flex-direction: column;
     flex-basis: 400px;
     gap: 8px;
+    margin-left: 80px;
 }
 
 button {
@@ -103,7 +104,7 @@ button {
 .imgs {
     display: flex;
     flex-direction: row;
-    gap: 80px;
+    gap: 90px;
    margin-top: -7px;
 }
 
@@ -116,7 +117,43 @@ button {
     display: flex;
     flex-direction: column;
     margin-top: 40px;
-    height: 235px;
+    height: 215px;
+    justify-content: center;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+.fourth {
+    background-color: #3882f6;
+    height: 95px;
+    width: 1000px;
+    justify-self: center;
+    margin-top: 45px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.four-two {
+    justify-content: center;
+    width: 380px;
+    align-content: center;
+    padding-left: 90px;
+}
+
+.button-two {
+    border-color: white;
+    align-self: center;
+    margin-right: 120px;
+}
+
+footer {
+    background-color: #1F2937;
+    height: 75px;
+    margin:0 -8px -8px -8px;
+    margin-top: 45px;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
