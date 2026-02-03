@@ -21,5 +21,7 @@ Images used in this project are sourced from:
 
 All rights belong to their respective photographers.
 
+## Live Preview: https://ramicoder.github.io/landing-page-odin/
+
 ## Notes
 This project was built for educational purposes only as part of The Odin Project.
